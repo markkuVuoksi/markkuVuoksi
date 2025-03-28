@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I am a software and game development teacher in Vuoksi Vocational Institute in Kauhajoki, Finland. This is my GitHub work account
-- 🌱 At Vuoksi, we teach software and game development using for example C#, Unity, Godot and Blender. Our students learn by working on educational projects individually and in teams. 
+- 🌱 At Vuoksi, we teach software and game development using for example C#, Unity, Godot and Blender. Our students learn by working on educational software projects individually and in teams. 
 - 📫 How to reach me: markku.hautamaki@vuoksi.fi
 <!--
 **markkuVuoksi/markkuVuoksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
