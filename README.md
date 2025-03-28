@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I am a software and game development teacher in Vuoksi Vocational Institute in Kauhajoki, Finland. This is my GitHub work account
+- 🔭 I am a software and game development teacher in Vuoksi Vocational Institute in Kauhajoki, Finland. This is my GitHub work account.
 - 🌱 At Vuoksi, we teach software and game development using for example C#, Unity, Godot and Blender. Our students learn by working on educational software projects individually and in teams. 
 - 📫 How to reach me: markku.hautamaki@vuoksi.fi
 <!--
